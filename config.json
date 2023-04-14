@@ -1,0 +1,31 @@
+{
+	"apps": [{
+			"name": "Twitter",
+			"apple": "id333903271",
+			"android": "com.twitter.android"
+		},
+		{
+			"name": "Whatsapp Messenger",
+			"apple": "id310633997",
+			"android": "com.whatsapp"
+		}
+	],
+	"countries": [{
+			"name": "Spain",
+			"code": "es"
+		},
+		{
+			"name": "France",
+			"code": "fr"
+		},
+		{
+			"name": "Italy",
+			"code": "it"
+		},
+		{
+			"name": "Portugal",
+			"code": "pt"
+		}
+	],
+	"slack_webhook": null
+}
